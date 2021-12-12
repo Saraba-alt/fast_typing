@@ -1,0 +1,17 @@
+.FormWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.FormInput {
+  width: inherit;
+  height: 3.5rem;
+  border-radius: 5px;
+  font-size: 1.5rem;
+}
+.FormLabel {
+  margin-bottom: 1.2rem;
+  font-size: 1.5rem;
+  font-weight: 200;
+}

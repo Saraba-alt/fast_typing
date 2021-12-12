@@ -1,0 +1,49 @@
+.Key {
+  width: 3.8rem;
+  height: 3.8rem;
+  border: #185adc solid 1px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* flex-direction: column; */
+  padding: 0.3rem;
+  margin: 0.5rem;
+  cursor: default;
+}
+.Delete {
+  width: 6.8rem;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.Tab {
+  width: 6.81rem;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.CapsLock {
+  width: 7.8rem;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.Shift {
+  width: 10.2rem;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.Shift:last-child {
+  width: 10.2rem;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.Space {
+  width: 37.5rem;
+}
+.Return {
+  width: 7.8rem;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.Clicked {
+  background-color: #185adc;
+}

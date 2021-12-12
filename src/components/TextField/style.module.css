@@ -1,0 +1,12 @@
+.TextField {
+  width: 100%;
+  height: 14.375rem;
+  background-color: #fff;
+  border: #185adc 5px solid;
+  border-radius: 5px;
+  color: rgb(131, 131, 131);
+  padding: 2rem 2.5rem;
+}
+.Writed {
+  color: #000;
+}

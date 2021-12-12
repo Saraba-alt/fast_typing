@@ -1,0 +1,12 @@
+.Wrapper {
+  height: 24rem;
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.Wide {
+  width: 72rem;
+  height: 100%;
+}
